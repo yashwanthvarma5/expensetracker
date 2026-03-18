@@ -3,23 +3,6 @@
 
 An interactive, full-stack Expense Tracker web application with **user authentication, income and expense management, file uploads, and dashboard analytics**. Built with **MERN stack** and deployed using **Render** and **Vercel**.
 
----
-
-## 🚀 **Live Demo**
-
-🔗 **Frontend**: [Expense Tracker Frontend](https://expense-tracker-683i.vercel.app)  
-🔗 **Backend API**: [Expense Tracker Backend](https://expense-tracker-backend-82la.onrender.com)
-
----
-
-## 🔑 **Test Login Credentials**
-
-> Use the below credentials to log in and test the application:
-
-- **Email**: `sathwikreddys467@gmail.com`  
-- **Password**: `Sathwik@123`
-
----
 
 ## 📂 **Project Structure**
 
