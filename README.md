@@ -47,11 +47,7 @@ Expense_Tracker/
 
 ## 📝 **Setup Instructions**
 
-### 🔧 **1. Clone the repository**
 
-
-git clone https://github.com/sathwik789/Expense_Tracker.git
-cd Expense_Tracker
 
 ⚙️ 2. Setup Backend
 cd server
@@ -109,7 +105,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 This project is licensed under the MIT License.
 
 ✉️ Contact
-Sathwik Reddy
-📧 reddysathwik019@gmail.com
+yashwanth varma
+📧 yashwanthvarma5005@gmail.com
 🔗 LinkedIn
 
